@@ -1,0 +1,15 @@
+h1, p {
+  font-family: Lato;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.flex-row {
+  flex-direction: row;
+}
+
+.flex-column {
+  flex-direction: column;
+}
